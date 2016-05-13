@@ -20,7 +20,7 @@ For OSX, you can use port or brew to install the asciidoc package.
 
 # First Phase
 
-## Controbutors
+## Contributors
 
 ### intro
 
