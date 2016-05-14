@@ -13,11 +13,46 @@ Feedback welcome, in the form of issues and pull requests.
 
 For OSX, you can use port or brew to install the asciidoc package.
 
-To build the PDF file:
 
-    apt-get install texlive texlive-xetex texlive-fonts-extra
-    make book.pdf
+## Instructions
 
-To build the ePub book:
+   While translating, do not change any special characters that could be part of the code.
 
-    make book.epub
+# First Phase
+
+## Contributors
+
+### intro
+
+    Orkhan Farmanli   0     - 130
+    Orkhan Abbasov    130   - 345
+    Samir Karimov     345   - 482
+
+### values
+
+    Eldar Alasgarov   0     - 290
+    Sabuhi Talibli    291   - 464
+    Murad Sofiyev     466   - 622
+
+### program structure
+
+    Heydar Shukurov   0     - 171
+    Aysel Emrahli     172   - 310
+    Vahab Valiyev     311   - 580
+    Jalil Tagizade    581   - 765
+    Karim Karimov     765   - 1032
+
+### functions
+
+    Shalala Yusifli   0     - 233
+    Samra Osmanova    235   - 452
+    Rahim Rahimli     454   - 692
+    Ahmadiyya Haciyev 692   - 1033
+
+### data
+
+    Azer Mehdiyev     0     - 362
+    Laman Nusratli    364   - 628
+    Khumar Musayeva   620   - 870
+    Nurana Verdiyeva  872   - 1118
+    Orxan Memmedov    1120  - 1464
