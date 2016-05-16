@@ -156,20 +156,20 @@ bilirsiniz, bu prosedur nece yorucu və xəta meyilli idi. Hətta sadə proqraml
 yazıması çox nizam-intizam və düşüncə tələb edirdi. Mürəkkəb olanlarıda var idi,
 fikirləşməsi belə imkansız.
 
-(((bit)))(((wizard (mighty))))Of course, manually entering these
-arcane patterns of bits (the ones and zeros) did give the programmer
-a profound sense of being a mighty wizard. And that has to be worth
-something in terms of job satisfaction.
+(((bit)))(((wizard (mighty))))Əlbəttə, bitlərdən(sıfırlar və birlər)
+ibarət bu gizli nümunələri özünün daxil etməsi, proqramçıya qüdrətli
+sehrbaz kimi dərin bir hiss yaşadırdı. Və iş məmnuniyyəti baxımından
+bir dəyəri olmalıdır.
 
-(((memory)))(((instruction)))Each line of the previous program contains a
-single instruction. It could be written in English like this:
+(((yaddaş)))(((təlimat)))Əvvəlki proqramın hər sətri bir təlimatdan 
+ibarətdir. O İngiliscə belə yazıla bilər:
 
 [source,text/plain]
 ----
-1. Store the number 0 in memory location 0.
-2. Store the number 1 in memory location 1.
-3. Store the value of memory location 1 in memory location 2.
-4. Subtract the number 11 from the value in memory location 2.
+1. Store the number 0 in memory location 0 - Yaddaşda 0 ədədini 0-cı yerdə saxla.
+2. Store the number 1 in memory location 1 - Yaddaşda 1 ədədini 1-ci yerdə saxla.
+3. Store the value of memory location 1 in memory location 2 - Yaddaşdakı 1-ci yerin dəyərini 2-ci yerdə saxla.
+4. Subtract the number 11 from the value in memory location 2 - Yaddaşdakı 2-ci yerin dəyərindən 11 çıx.
 5. If the value in memory location 2 is the number 0,
    continue with instruction 9.
 6. Add the value of memory location 1 to memory location 0.
