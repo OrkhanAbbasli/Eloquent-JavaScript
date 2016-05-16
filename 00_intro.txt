@@ -129,11 +129,10 @@ challenges and new territory to explore. Programmers who refuse to
 keep exploring will stagnate, forget their joy, and get bored with
 their craft.
 
-== Why language matters ==
+== Dil niyə vacibdir ==
 
-(((programming language)))(((machine code)))(((binary data)))In the
-beginning, at the birth of computing, there were no programming
-languages. Programs looked something like this:
+(((proqramlaşdırma dili)))(((maşın kodu)))(((ikilik say sistemində verilənlər)))İlk
+başlarda, komputerlər yarananda, proqramlaşdırma dilləri yox idi. Proqramlar demək olarki, bu şəkildə idi:
 
 ----
 00110001 00000000 00000000
@@ -147,15 +146,15 @@ languages. Programs looked something like this:
 01100010 00000000 00000000
 ----
 
-(((programming,history of)))(((punch card)))(((complexity)))That is a
-program to add the numbers from 1 to 10 together and print out the
-result: `1 + 2 + ... + 10 = 55`. It could run on a simple,
-hypothetical machine. To program early computers, it was necessary to
-set large arrays of switches in the right position or punch holes in
-strips of cardboard and feed them to the computer. You can probably imagine
-how tedious and error-prone this procedure was. Even writing simple
-programs required much cleverness and discipline. Complex ones were
-nearly inconceivable.
+(((Proqramlaşdırma, tarixi)))(((Perfokart-Deşikli kart)))(((mürəkkəblik)))1-dən 10-a
+qədər ədədləri toplayan və nəticəni  ' 1 + 2 + ... + 10 ' kimi ekrana 
+yazdıran bir proqram. Bu bir sadə, hipoetik maşın üzərdə işləyə bilər.
+İlk komputerləri proqramlaşdırmaq üçün, böyük açarlardan ibarət massivləri 
+düzgün yerlərdə quraşdırmaq və ya Perfokartlar üzərindəki zolaqlarda 
+deşiklər açaraq komputeri qidalandırmaq vacib idi. Yəqin ki, təsəvvür edə 
+bilirsiniz, bu prosedur nece yorucu və xəta meyilli idi. Hətta sadə proqramların
+yazıması çox nizam-intizam və düşüncə tələb edirdi. Mürəkkəb olanlarıda var idi,
+fikirləşməsi belə imkansız.
 
 (((bit)))(((wizard (mighty))))Of course, manually entering these
 arcane patterns of bits (the ones and zeros) did give the programmer
